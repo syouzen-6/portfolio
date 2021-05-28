@@ -194,7 +194,7 @@ li {
 }
 
 .contact-icon {
-  width: 120px;
+  width: 170px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
@@ -203,7 +203,7 @@ li {
 
 .contact-icon li{
 	width: calc(100%/3);
-	padding:0 5px;
+	padding:0 6px;
 	box-sizing:border-box;
 }
 
